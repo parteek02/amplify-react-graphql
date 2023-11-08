@@ -1,0 +1,12 @@
+{
+  "resourceName": "ParteekDushyant",
+  "policyUUID": "ab2ec728",
+  "bucketName": "amplifyreactgraphql009988",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
