@@ -75,16 +75,16 @@ const App = ({ signOut }) => {
         <Flex direction="row" justifyContent="center">
           <TextField
             name="name"
-            placeholder="Note Name"
-            label="Note Name"
+            placeholder="Enter Note Name"
+            label="Enter Note Name"
             labelHidden
             variation="quiet"
             required
           />
           <TextField
             name="description"
-            placeholder="Note Description"
-            label="Note Description"
+            placeholder="Enter Note Description"
+            label="Enter Note Description"
             labelHidden
             variation="quiet"
             required
